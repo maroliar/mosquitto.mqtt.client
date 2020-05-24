@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosquitto.Mqtt.Client.AspNetCore", "Mosquitto.Mqtt.Cliente.AspNetCore\Mosquitto.Mqtt.Client.AspNetCore.csproj", "{B542EB3E-955A-4E00-B810-D31BB41D11DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mosquitto.Mqtt.Client.AspNetCore", "Mosquitto.Mqtt.Client.AspNetCore\Mosquitto.Mqtt.Client.AspNetCore.csproj", "{B542EB3E-955A-4E00-B810-D31BB41D11DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
